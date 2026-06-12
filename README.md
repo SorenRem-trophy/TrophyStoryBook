@@ -1,2 +1,0 @@
-# TrophyStoryBook
-Testing storybook
